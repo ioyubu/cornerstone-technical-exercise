@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T23:11:56 BST" name="Default suite" finished-at="2022-04-23T23:12:25 BST" duration-ms="28264">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T23:11:56 BST" name="Default test" finished-at="2022-04-23T23:12:25 BST" duration-ms="28264">
+      <class name="com.cornerstone.testcases.ProductCheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cornerstone.testcases.ProductCheckoutTest@2c1b194a]" started-at="2022-04-23T23:11:56 BST" name="setUp" finished-at="2022-04-23T23:12:01 BST" duration-ms="4875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="singleProductCheckoutForUnregisteredCustomer()[pri:0, instance:com.cornerstone.testcases.ProductCheckoutTest@2c1b194a]" started-at="2022-04-23T23:12:01 BST" name="singleProductCheckoutForUnregisteredCustomer" description="Verify an unregistered customer can add single product to cart and checkout successfully" finished-at="2022-04-23T23:12:25 BST" duration-ms="23346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleProductCheckoutForUnregisteredCustomer -->
+        <test-method is-config="true" signature="shutDown()[pri:0, instance:com.cornerstone.testcases.ProductCheckoutTest@2c1b194a]" started-at="2022-04-23T23:12:25 BST" name="shutDown" finished-at="2022-04-23T23:12:25 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.cornerstone.testcases.ProductCheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
